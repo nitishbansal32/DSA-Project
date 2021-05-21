@@ -8,8 +8,7 @@ Nitish Kumar Bansal – 20BCE0999
 Bhoomi Abichandani – 20BDS0242 
 Akshita Langer          – 20BCE2872 
  
-HP | Data structure and algorithms | 21/05/21 
-6 
+
 INTRODUCTION TO TRIE – 
  
 A trie is a tree-like data structure whose nodes store the letters of an alphabet. By structuring the nodes in a particular way, words and strings can be retrieved from the structure by traversing down a branch path of the tree. 
